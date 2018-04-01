@@ -1,0 +1,14 @@
+{
+    "name": "mandy/licence-plate",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mandy Schoep",
+            "email": "mandyschoep@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"LicencePlate\\": "src/"}
+    },
+    "require": {}
+}
